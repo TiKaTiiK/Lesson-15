@@ -1,0 +1,32 @@
+/* .wraper {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+} */
+
+/* .text {
+    color: red;
+}
+ */
+.body-element {
+    background-color: yellow;
+}
+
+.active {
+    background-color: aqua;
+}
+
+#username {
+    outline: none;
+}
+
+.ul_list {
+    display: flex;
+    list-style-type: none;
+}
+
+.li-element {
+    width: 150px;
+    background-color: blueviolet;
+    margin-left: 15px;
+}
